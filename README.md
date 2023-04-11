@@ -32,8 +32,6 @@ We classify 33 columns of data into six domains. The six categories in the domai
 - Billing: Includes contract type, billing configuration, and monthly charges.
 - Customer status: Churn value (target variable), Churn Reasons, and two TelCo metrics for Churn Score and Customer Lifetime Value.
 
-For more details on each feature explanation, please refer to https://community.ibm.com/community/user/businessanalytics/blogs/steven- macko/2019/07/11/telco-customer-churn- 111(https://community.ibm.com/community/user/businessanalytics/blogs/steven macko/2019/07/11/telco-customer-churn-1113). 
-
 ## 3. Modeling Approach: 
 
 According to the dataset, we have a binary classification problem. The output of the predictiv emodel is the target-dependent variable “Churn Value” 1 (churn) or 0 (retain).
